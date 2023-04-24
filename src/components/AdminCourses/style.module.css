@@ -1,0 +1,31 @@
+.table {
+  max-width: 360px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  background-color: lightskyblue;
+  height: 40px;
+  font-weight: 600;
+}
+
+.line {
+  display: flex;
+  align-items: center;
+}
+
+.col1 {
+  width: 30px;
+  padding-left: 12px;
+}
+
+.col2 {
+  width: 200px;
+}
+
+.col3 {
+  display: flex;
+  justify-content: center;
+  width: 100px;
+}
